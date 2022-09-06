@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DandyManDEGO
-- 👀 I’m interested in Solana
+- 👀 I’m interested in Solana and Near 
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
