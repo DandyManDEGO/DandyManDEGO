@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DandyManDEGO
 - 👀 I’m interested in Solana and Near 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C# && Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
