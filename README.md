@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DandyManDEGO
+- 👋 Hi, I’m @DandyMan
 - 👀 I’m interested in GameDev and Rust 
 - 🌱 I’m currently learning C# && Rust
 - 💞️ I’m looking to collaborate on ...
